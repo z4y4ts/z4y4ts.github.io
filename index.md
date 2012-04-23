@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Alexander Zayats
 ### Software Developer
 
