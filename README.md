@@ -10,6 +10,7 @@ Export to HTML is provided by [GitHub:pages](https://pages.github.com/) via Jeky
 Export to PDF I do by myself with help of [Gimli](https://github.com/walle/gimli)
 
 Now résumé update as simple as:
+
 1. Edit index.md.
 2. Run simple command to export it to pdf. ```gimli -removefrontmatter -file index.md -outputfilename 'Alexander Zayats - resume'```
 3. Push changes to github.
