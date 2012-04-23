@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Alexander Zayats
-### Software Developer
+## Contacts
 
 * Email/gtalk: alexander.zayats@gmail.com
 * Skype: alexander.zayats
