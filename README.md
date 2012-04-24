@@ -1,7 +1,7 @@
 z4y4ts.github.com
 =================
 
-So this is my résumé. Public version is [here][resume].
+So this is my résumé. Public version is [here][resume]. This implementation inspired by [Adam Strawson's resume][adam].
 
 I maintain it in [markdown][mdown] -- nice and easy to read, edit & export language.
 
@@ -17,6 +17,7 @@ Now résumé update as simple as:
 4. ...
 5. PROFIT!
 
+[adam]: https://github.com/adamstrawson/resume
 [resume]: http://z4y4ts.github.com/
 [mdown]: http://en.wikipedia.org/wiki/Markdown
 [pages]: http://pages.github.com/
